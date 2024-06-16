@@ -7,4 +7,4 @@ const EstadoEquipoSchema = Schema ({
     fechaActualizacion: { type: Date, required: true}
 });
 
-module.exports = models.EstadoEquipo || model('EstadoEquipo', EstadoEquipoSchema); // Exporta el modelo EstadoEquipo si ya está definido en models,
+module.exports = models.EstadoEquipo || model('EstadoEquipo', EstadoEquipoSchema); // Exporta el modelo EstadoEquipo si ya está definido en models
