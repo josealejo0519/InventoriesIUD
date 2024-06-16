@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "666b89fa8375d622355ac3d1",
+    "fechaCreacion": "2024-06-14T00:08:26.857Z",
+    "fechaActualizacion": "2024-06-14T00:08:26.857Z",
+    "nombre": "Bruce Wayne",
+    "email": "batman@gmail.com",
+    "estado": "Activo",
+    "password": "$2a$10$HHWOiR/7MQBgTi165Oaq9Ol3HE0GbP/AgcLmuumOOMpH1LPB5ahBW",
+    "rol": "Docente",
+    "__v": 0
+  },
+  {
+    "_id": "666b8cc48375d622355ac3e2",
+    "fechaCreacion": "2024-06-14T00:20:20.959Z",
+    "fechaActualizacion": "2024-06-14T00:20:20.959Z",
+    "nombre": "Frances Quinzel",
+    "email": "harleyquinn@gmail.com",
+    "estado": "Activo",
+    "password": "$2a$10$pLtPNz4sbqFItRcMMoF8fOdQdX.zqIeG6UdW0QQ9s6wLFZBmn7gpS",
+    "rol": "Docente",
+    "__v": 0
+  },
+  {
+    "_id": "666b8ebb4ffd88b24d4ffb33",
+    "fechaCreacion": "2024-06-14T00:28:43.222Z",
+    "fechaActualizacion": "2024-06-14T00:28:43.222Z",
+    "nombre": "Klark Kent",
+    "email": "superman@gmail.com",
+    "estado": "Activo",
+    "password": "$2a$10$C2Yo7bA9N8gkBRdvUXVqr.yk7/DX0MrrWwBJeCs3kYawds1LhjCGe",
+    "rol": "Docente",
+    "__v": 0
+  },
+  {
+    "_id": "666b91044ffd88b24d4ffb3d",
+    "fechaCreacion": "2024-06-14T00:38:28.262Z",
+    "fechaActualizacion": "2024-06-14T00:38:28.262Z",
+    "nombre": "Joaquin Phoenix",
+    "email": "joker@gmail.com",
+    "estado": "Activo",
+    "password": "$2a$10$23QFd3U6hneZMvKm6t2xQOcvt9x/Y7meVkE2SmYxmZKp/p2t9T10m",
+    "rol": "Administrador",
+    "__v": 0
+  },
+  {
+    "_id": "666ba1ec5b22575a488749e1",
+    "fechaCreacion": "2024-06-14T01:50:36.204Z",
+    "fechaActualizacion": "2024-06-14T01:50:36.204Z",
+    "nombre": "Iron Man",
+    "email": "ironman@gmail.com",
+    "estado": "Activo",
+    "password": "$2a$10$ii/KyYYRB9fdNcjN.7cenei/IRRTRc66o0Fk9ArhsssDJYedO95oq",
+    "rol": "Docente",
+    "__v": 0
+  }
+]
